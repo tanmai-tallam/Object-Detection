@@ -9,10 +9,12 @@ Eyes Detection:
 
 Smile Detection:
 
-![Uploading image.png…]()
+![image](https://github.com/tanmai-tallam/Object-Detection/assets/120913651/7ff078d7-6a01-484e-b3d4-ed3e4466ccf3)
+
 
 
 Number Plate Detection:
+
 ![image](https://github.com/tanmai-tallam/Object-Detection/assets/120913651/1a6296d9-a506-4408-bc9c-bd12220061a9)
 
 
